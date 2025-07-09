@@ -1,0 +1,1501 @@
+id,gender,age,hypertension,heart_disease,avg_glucose_level,bmi,smoking_status,stroke
+1,Male,47,0,0,127.04,34.3,smokes,0
+2,Female,65,0,0,118.02,23.9,Unknown,0
+3,Female,69,0,0,161.07,18.8,never smoked,0
+4,Female,27,0,0,209.99,40.3,never smoked,0
+5,Male,92,0,0,224.5,25.9,never smoked,1
+6,Male,25,0,0,222.08,34.8,never smoked,0
+7,Male,24,0,0,134.74,29.1,never smoked,0
+8,Female,11,0,1,193.7,21.0,never smoked,1
+9,Female,4,1,0,126.31,33.1,never smoked,0
+10,Female,97,1,0,80.96,16.8,never smoked,0
+11,Male,47,0,0,196.28,27.4,never smoked,1
+12,Female,36,0,0,71.77,31.4,smokes,0
+13,Female,78,0,0,143.65,28.1,formerly smoked,1
+14,Male,43,0,0,129.29,37.5,never smoked,0
+15,Male,99,0,0,194.81,39.8,formerly smoked,0
+16,Male,14,0,0,207.92,38.1,formerly smoked,0
+17,Male,42,0,0,124.74,16.2,Unknown,0
+18,Female,47,0,0,216.09,20.8,never smoked,0
+19,Male,86,0,0,122.91,31.1,never smoked,0
+20,Male,69,1,0,150.34,43.0,smokes,1
+21,Female,45,0,0,200.86,40.0,smokes,0
+22,Male,42,0,0,194.73,40.3,formerly smoked,0
+23,Male,20,1,0,247.73,24.1,formerly smoked,0
+24,Male,22,0,0,110.53,27.9,never smoked,0
+25,Male,79,0,0,189.22,29.1,never smoked,1
+26,Female,46,0,0,179.74,19.7,never smoked,0
+27,Male,14,0,0,234.72,15.9,never smoked,0
+28,Female,24,0,0,98.15,43.4,smokes,0
+29,Female,35,0,0,205.32,22.2,never smoked,0
+30,Male,74,0,0,172.29,22.2,never smoked,0
+31,Female,50,0,0,119.44,17.5,smokes,0
+32,Male,14,0,0,155.4,42.9,never smoked,0
+33,Male,67,0,0,130.08,32.4,Unknown,0
+34,Female,20,0,0,174.28,35.0,Unknown,0
+35,Female,12,0,0,230.02,42.3,never smoked,0
+36,Female,85,1,0,172.47,25.4,never smoked,1
+37,Male,18,0,0,183.71,33.6,never smoked,1
+38,Male,33,0,0,163.37,16.2,never smoked,0
+39,Female,77,0,0,79.21,20.6,never smoked,0
+40,Male,67,0,0,111.91,39.9,never smoked,1
+41,Male,51,1,0,158.56,38.0,Unknown,0
+42,Female,26,0,0,125.84,25.5,never smoked,0
+43,Male,28,0,0,102.72,26.3,formerly smoked,0
+44,Female,27,0,0,160.74,31.0,never smoked,1
+45,Male,34,0,0,128.11,15.0,never smoked,0
+46,Female,7,0,0,116.46,22.2,smokes,0
+47,Male,15,0,0,153.52,21.2,never smoked,0
+48,Female,35,0,0,93.99,22.5,never smoked,0
+49,Female,29,0,0,236.99,39.2,formerly smoked,0
+50,Male,17,0,0,226.19,23.4,formerly smoked,0
+51,Female,1,0,0,197.37,20.7,formerly smoked,0
+52,Female,48,0,0,89.12,30.1,never smoked,0
+53,Female,76,1,0,209.66,41.0,never smoked,1
+54,Female,3,0,0,215.43,22.2,Unknown,1
+55,Female,89,0,0,208.2,17.4,smokes,1
+56,Female,88,0,0,90.51,25.7,never smoked,1
+57,Male,93,0,0,185.9,37.4,smokes,1
+58,Male,74,0,0,220.18,31.5,never smoked,1
+59,Male,6,0,0,173.92,39.5,never smoked,1
+60,Male,94,0,0,186.35,43.8,never smoked,0
+61,Male,73,0,0,152.51,38.8,never smoked,1
+62,Male,38,0,0,165.17,33.1,never smoked,0
+63,Female,12,0,0,76.19,29.8,never smoked,0
+64,Male,30,0,0,185.01,16.2,never smoked,0
+65,Male,70,1,0,84.66,44.5,formerly smoked,0
+66,Female,62,0,0,148.3,26.5,formerly smoked,0
+67,Male,55,1,0,122.68,19.6,formerly smoked,0
+68,Female,41,0,0,168.18,35.0,smokes,1
+69,Male,60,0,0,94.01,23.5,never smoked,0
+70,Other,41,0,0,194.5,32.6,never smoked,0
+71,Female,55,0,1,213.1,32.6,formerly smoked,0
+72,Male,35,0,0,99.4,28.4,never smoked,0
+73,Male,83,0,1,88.78,40.1,never smoked,1
+74,Female,67,0,1,96.19,22.9,never smoked,0
+75,Female,6,0,0,227.88,28.5,smokes,0
+76,Female,53,0,0,165.07,31.1,never smoked,0
+77,Female,0,0,0,154.11,34.9,smokes,1
+78,Male,43,0,0,89.21,38.5,never smoked,0
+79,Male,44,0,0,186.92,26.8,formerly smoked,1
+80,Male,46,0,0,226.24,34.4,smokes,1
+81,Female,12,0,0,219.07,19.5,formerly smoked,0
+82,Female,21,0,0,182.69,43.0,never smoked,0
+83,Male,20,0,0,83.55,26.5,never smoked,0
+84,Male,85,0,0,90.23,36.9,smokes,1
+85,Male,91,0,0,78.88,15.6,never smoked,1
+86,Male,8,0,0,116.35,21.2,never smoked,0
+87,Female,25,0,0,94.42,29.6,never smoked,0
+88,Female,8,0,0,116.81,41.3,smokes,0
+89,Female,14,0,0,139.31,30.8,never smoked,0
+90,Male,9,0,0,239.74,42.9,formerly smoked,0
+91,Male,87,1,0,179.87,29.5,never smoked,1
+92,Female,41,0,0,220.3,29.7,never smoked,0
+93,Female,71,1,0,197.86,18.6,formerly smoked,1
+94,Female,23,0,0,90.25,39.1,never smoked,0
+95,Female,79,0,0,202.47,22.4,never smoked,0
+96,Female,48,0,0,119.52,42.0,formerly smoked,0
+97,Female,25,0,1,185.04,42.3,smokes,1
+98,Male,90,0,0,131.37,43.3,never smoked,1
+99,Male,36,0,0,249.58,30.6,smokes,1
+100,Male,67,0,0,117.44,35.3,formerly smoked,0
+101,Male,49,0,0,120.24,38.4,smokes,0
+102,Female,23,0,0,237.52,18.9,never smoked,1
+103,Male,18,0,0,74.44,33.0,never smoked,0
+104,Female,99,0,0,195.4,16.0,smokes,0
+105,Female,59,0,1,200.56,29.9,smokes,0
+106,Male,38,0,0,220.55,19.6,never smoked,0
+107,Male,73,1,0,245.4,20.5,never smoked,0
+108,Female,88,0,0,245.61,26.0,never smoked,0
+109,Male,17,1,0,81.75,28.0,never smoked,0
+110,Male,18,0,0,217.93,33.7,never smoked,0
+111,Male,35,0,0,186.34,17.2,never smoked,0
+112,Male,73,0,0,186.52,30.1,smokes,0
+113,Female,96,0,0,93.1,20.5,never smoked,1
+114,Female,54,1,0,187.03,32.2,formerly smoked,1
+115,Female,68,0,0,246.85,34.1,never smoked,1
+116,Female,46,0,0,234.13,31.7,never smoked,1
+117,Female,48,0,0,149.04,37.1,never smoked,0
+118,Male,98,0,0,77.19,25.1,never smoked,0
+119,Female,97,0,0,135.21,38.0,formerly smoked,0
+120,Female,32,0,0,218.75,28.0,smokes,0
+121,Female,20,0,0,196.27,29.5,never smoked,0
+122,Female,80,0,0,152.68,34.4,never smoked,1
+123,Male,21,0,0,79.92,15.6,never smoked,0
+124,Male,47,0,0,146.84,34.6,smokes,0
+125,Male,36,0,0,154.42,33.6,formerly smoked,0
+126,Male,14,0,0,237.14,24.3,never smoked,0
+127,Female,34,0,0,185.4,17.6,formerly smoked,0
+128,Female,91,0,0,126.1,17.7,smokes,1
+129,Male,70,0,0,164.56,42.7,never smoked,1
+130,Female,31,0,0,81.89,35.7,never smoked,0
+131,Male,10,0,0,245.06,18.8,smokes,0
+132,Male,9,0,0,134.81,25.7,formerly smoked,0
+133,Male,72,0,0,156.02,32.8,never smoked,1
+134,Male,77,0,0,133.95,40.1,never smoked,0
+135,Female,76,0,0,192.85,16.3,never smoked,0
+136,Male,56,0,0,189.2,22.1,never smoked,0
+137,Female,24,0,0,198.76,41.7,formerly smoked,1
+138,Female,1,0,0,118.27,15.3,never smoked,0
+139,Male,63,0,0,126.82,21.0,formerly smoked,0
+140,Female,34,0,0,92.55,43.8,smokes,0
+141,Female,6,0,0,187.99,33.4,never smoked,0
+142,Male,84,0,0,77.16,22.9,never smoked,0
+143,Female,17,0,0,177.58,17.0,never smoked,0
+144,Male,66,0,1,226.55,15.8,formerly smoked,1
+145,Male,41,0,0,230.35,22.3,never smoked,0
+146,Male,38,0,0,150.83,41.4,formerly smoked,0
+147,Female,40,0,0,152.67,27.5,smokes,0
+148,Female,74,0,0,83.85,36.6,never smoked,1
+149,Male,23,0,0,190.74,42.5,smokes,1
+150,Male,59,0,0,217.83,27.2,Unknown,0
+151,Female,45,0,0,114.04,20.7,never smoked,0
+152,Male,18,0,0,145.83,30.5,never smoked,1
+153,Male,67,0,0,220.99,42.2,Unknown,1
+154,Female,89,0,0,227.88,39.1,Unknown,1
+155,Other,41,0,0,113.77,17.0,never smoked,0
+156,Male,31,0,0,169.1,35.8,never smoked,1
+157,Female,38,0,0,104.65,32.2,never smoked,0
+158,Female,35,0,0,88.34,42.2,Unknown,1
+159,Male,96,0,0,234.0,18.7,never smoked,1
+160,Female,35,0,0,217.69,31.0,never smoked,0
+161,Male,2,1,0,206.81,41.4,smokes,0
+162,Female,72,0,0,78.78,27.3,never smoked,1
+163,Female,7,1,0,221.87,29.5,formerly smoked,0
+164,Female,96,0,0,148.85,17.1,never smoked,0
+165,Male,69,0,0,131.63,23.3,smokes,0
+166,Female,40,0,0,168.37,24.7,never smoked,0
+167,Male,67,0,0,86.44,43.4,formerly smoked,0
+168,Male,12,0,0,206.2,23.5,formerly smoked,0
+169,Male,48,0,0,174.84,28.8,never smoked,0
+170,Female,59,0,0,103.59,35.1,never smoked,0
+171,Female,1,0,0,103.88,19.9,never smoked,0
+172,Male,59,0,0,103.16,29.6,never smoked,0
+173,Female,4,0,0,80.26,37.2,smokes,1
+174,Male,43,1,0,175.8,41.0,smokes,1
+175,Female,26,0,0,221.26,33.8,never smoked,0
+176,Male,31,1,0,73.15,35.1,formerly smoked,0
+177,Female,20,0,0,78.82,18.8,formerly smoked,0
+178,Male,7,0,0,173.1,43.4,smokes,1
+179,Female,71,0,0,217.51,19.0,never smoked,1
+180,Male,49,0,0,128.81,38.2,never smoked,0
+181,Male,66,0,0,132.93,22.9,never smoked,0
+182,Male,43,0,0,177.34,43.0,never smoked,0
+183,Female,57,0,0,119.36,36.6,never smoked,0
+184,Female,2,1,0,74.79,37.6,never smoked,0
+185,Male,85,0,0,202.34,21.6,never smoked,0
+186,Female,69,0,0,182.62,28.3,formerly smoked,0
+187,Female,1,0,0,174.54,33.5,never smoked,0
+188,Female,86,0,0,203.5,38.1,never smoked,0
+189,Female,43,0,0,191.54,18.1,never smoked,0
+190,Male,1,0,0,107.06,43.9,never smoked,0
+191,Male,80,0,0,133.45,41.7,never smoked,1
+192,Female,34,0,0,92.7,23.1,never smoked,0
+193,Female,97,0,0,93.37,39.7,never smoked,0
+194,Female,86,0,0,191.72,30.5,never smoked,1
+195,Male,29,0,0,224.55,28.9,never smoked,0
+196,Male,7,0,1,243.29,24.4,never smoked,0
+197,Female,21,0,0,183.1,32.4,smokes,0
+198,Female,43,0,0,103.14,36.9,never smoked,0
+199,Female,57,0,0,89.02,27.3,never smoked,0
+200,Female,35,0,0,216.31,33.9,never smoked,0
+201,Female,68,0,0,174.18,36.0,never smoked,1
+202,Male,76,0,0,181.29,36.3,never smoked,0
+203,Male,92,0,0,210.66,16.6,never smoked,1
+204,Female,30,0,0,196.59,40.8,formerly smoked,0
+205,Female,46,0,0,220.2,28.7,never smoked,0
+206,Male,54,0,0,80.12,22.9,never smoked,0
+207,Male,79,0,0,204.55,22.3,smokes,1
+208,Female,61,0,0,223.15,29.5,smokes,0
+209,Male,29,0,1,121.5,41.6,never smoked,1
+210,Male,54,0,0,185.28,26.4,never smoked,0
+211,Female,15,0,0,126.55,37.5,never smoked,0
+212,Female,11,0,0,242.43,17.9,never smoked,1
+213,Female,16,0,1,76.02,29.3,never smoked,1
+214,Male,15,0,0,174.36,44.8,never smoked,0
+215,Female,11,0,0,99.97,38.1,formerly smoked,0
+216,Male,7,0,0,198.2,21.3,never smoked,0
+217,Male,83,0,0,101.66,30.0,never smoked,0
+218,Female,2,0,0,112.37,22.0,never smoked,0
+219,Female,15,0,0,158.99,27.3,smokes,0
+220,Female,29,0,0,234.67,38.4,never smoked,0
+221,Female,22,0,0,108.11,38.1,formerly smoked,0
+222,Female,91,0,0,95.96,21.8,never smoked,0
+223,Male,4,0,0,206.62,42.7,never smoked,0
+224,Male,83,0,0,160.11,32.8,never smoked,0
+225,Male,64,0,0,234.12,26.4,never smoked,0
+226,Male,29,0,0,96.39,30.1,never smoked,0
+227,Female,20,0,0,186.27,33.2,never smoked,1
+228,Male,83,0,0,111.92,31.8,never smoked,0
+229,Female,69,0,0,98.22,29.6,formerly smoked,0
+230,Female,21,0,0,193.02,30.1,never smoked,1
+231,Female,81,0,0,176.86,20.3,never smoked,0
+232,Female,71,1,0,205.87,39.4,never smoked,1
+233,Female,31,0,0,125.7,31.3,formerly smoked,0
+234,Female,32,0,0,150.63,18.9,Unknown,0
+235,Male,15,0,0,142.98,38.0,never smoked,0
+236,Female,75,0,0,247.14,43.0,never smoked,1
+237,Male,37,0,0,122.6,43.4,never smoked,0
+238,Male,97,0,0,123.07,26.1,smokes,0
+239,Female,13,1,0,133.82,19.1,smokes,1
+240,Male,35,0,0,171.63,30.6,never smoked,0
+241,Female,96,0,1,115.42,18.4,never smoked,1
+242,Female,22,0,0,234.75,43.0,never smoked,1
+243,Female,65,0,0,117.82,20.5,never smoked,1
+244,Male,84,0,0,231.25,22.6,formerly smoked,0
+245,Male,1,0,0,88.63,27.2,never smoked,0
+246,Female,90,0,0,188.18,26.5,never smoked,1
+247,Male,72,0,0,233.26,38.8,formerly smoked,0
+248,Female,64,0,0,100.37,28.7,smokes,0
+249,Female,74,0,0,244.3,20.1,never smoked,1
+250,Female,66,0,0,151.52,23.0,formerly smoked,1
+251,Male,51,0,0,240.23,30.3,never smoked,0
+252,Male,61,0,0,191.83,19.4,smokes,0
+253,Female,22,0,0,124.29,33.3,smokes,0
+254,Male,25,0,0,103.89,32.0,never smoked,0
+255,Male,67,1,0,124.67,36.4,formerly smoked,1
+256,Female,81,0,0,86.74,43.1,smokes,0
+257,Female,54,0,0,95.9,42.4,never smoked,1
+258,Female,5,0,0,88.84,43.4,never smoked,0
+259,Female,34,0,0,146.13,22.3,formerly smoked,0
+260,Male,21,0,0,213.2,18.9,never smoked,0
+261,Female,42,0,0,95.45,24.1,never smoked,0
+262,Other,14,0,0,93.46,41.9,smokes,1
+263,Male,85,0,0,185.82,44.2,formerly smoked,1
+264,Female,59,0,0,105.49,40.8,never smoked,0
+265,Female,11,0,0,87.57,18.3,never smoked,0
+266,Female,48,0,0,100.03,43.4,never smoked,0
+267,Female,41,0,0,236.27,27.7,never smoked,0
+268,Female,37,0,0,217.86,15.3,never smoked,0
+269,Male,81,0,0,133.73,28.3,formerly smoked,0
+270,Male,44,0,0,188.05,16.4,never smoked,0
+271,Female,34,1,0,166.71,31.3,never smoked,0
+272,Female,29,1,0,191.88,25.2,never smoked,0
+273,Female,87,0,0,192.88,29.2,Unknown,0
+274,Female,29,1,0,183.17,33.4,never smoked,0
+275,Female,77,0,0,117.9,41.1,never smoked,1
+276,Female,5,1,0,77.02,34.9,never smoked,0
+277,Female,66,0,0,152.0,28.0,never smoked,1
+278,Female,79,0,0,230.38,39.6,never smoked,1
+279,Female,6,0,0,172.51,42.2,never smoked,0
+280,Female,51,0,0,219.83,18.6,never smoked,0
+281,Female,13,0,0,248.49,31.0,never smoked,0
+282,Male,72,0,0,99.45,23.5,never smoked,1
+283,Male,14,0,0,194.52,16.4,never smoked,0
+284,Male,20,0,0,191.37,35.1,never smoked,1
+285,Female,34,0,0,246.39,40.9,never smoked,0
+286,Male,65,0,0,247.41,19.9,never smoked,0
+287,Male,90,0,1,193.6,39.4,never smoked,1
+288,Female,1,0,0,113.85,40.6,formerly smoked,0
+289,Male,34,0,0,213.74,42.4,never smoked,1
+290,Female,81,0,0,89.27,23.0,never smoked,1
+291,Male,77,0,0,210.53,42.1,never smoked,1
+292,Male,19,1,0,233.84,24.6,Unknown,0
+293,Female,81,0,0,138.91,31.6,smokes,1
+294,Male,9,0,1,183.51,16.5,never smoked,0
+295,Male,24,0,0,147.43,16.3,never smoked,0
+296,Female,65,0,0,148.8,36.6,never smoked,0
+297,Female,24,0,0,125.87,28.3,never smoked,0
+298,Male,53,0,0,207.18,22.7,never smoked,0
+299,Female,32,0,0,238.51,20.7,formerly smoked,0
+300,Male,35,0,0,239.34,35.1,never smoked,0
+301,Male,94,0,0,101.46,15.0,smokes,0
+302,Female,13,0,0,227.45,39.2,never smoked,0
+303,Female,64,1,0,202.74,17.4,smokes,1
+304,Female,79,0,0,115.51,20.7,formerly smoked,0
+305,Female,53,0,0,82.11,26.6,never smoked,0
+306,Female,51,0,0,118.24,29.5,never smoked,0
+307,Female,2,0,0,234.2,25.6,never smoked,0
+308,Male,98,0,0,183.97,24.6,never smoked,1
+309,Female,40,0,1,199.79,43.9,never smoked,1
+310,Male,5,0,0,116.29,34.2,never smoked,0
+311,Male,24,0,0,199.49,15.7,never smoked,1
+312,Male,12,0,0,75.06,27.9,smokes,0
+313,Male,97,0,0,137.56,41.3,never smoked,0
+314,Female,7,0,0,182.82,24.0,Unknown,0
+315,Female,20,0,0,96.3,17.8,never smoked,0
+316,Female,97,0,0,218.14,37.8,formerly smoked,1
+317,Male,67,0,0,112.31,33.2,never smoked,0
+318,Male,24,0,0,187.41,32.1,never smoked,0
+319,Male,78,0,0,142.94,16.6,smokes,0
+320,Male,67,1,0,177.29,19.2,never smoked,0
+321,Female,44,0,0,89.34,33.7,formerly smoked,0
+322,Female,59,0,0,73.04,21.2,never smoked,0
+323,Female,11,0,0,233.72,30.1,never smoked,1
+324,Male,31,1,0,118.53,31.3,never smoked,0
+325,Female,95,0,0,217.54,23.5,formerly smoked,1
+326,Female,91,1,0,249.88,43.5,never smoked,1
+327,Female,12,1,0,108.06,40.3,formerly smoked,1
+328,Female,30,0,0,117.73,36.7,smokes,0
+329,Male,77,1,0,189.31,17.3,never smoked,1
+330,Male,19,0,0,243.78,18.2,never smoked,0
+331,Male,17,0,0,234.85,29.8,formerly smoked,0
+332,Female,92,0,0,160.52,19.8,never smoked,0
+333,Male,59,0,0,213.12,44.3,never smoked,0
+334,Male,62,0,0,94.43,19.8,never smoked,0
+335,Male,5,0,0,245.94,29.6,never smoked,0
+336,Male,31,1,0,243.58,25.9,never smoked,1
+337,Female,92,0,0,99.47,34.2,never smoked,0
+338,Female,42,0,0,123.9,18.9,formerly smoked,0
+339,Male,1,1,0,88.03,27.9,never smoked,0
+340,Male,59,1,0,118.91,23.2,never smoked,1
+341,Female,22,1,0,216.87,41.6,Unknown,0
+342,Male,82,0,0,138.1,16.2,formerly smoked,1
+343,Male,30,1,0,85.91,42.4,smokes,0
+344,Male,4,0,0,131.6,40.0,never smoked,0
+345,Male,82,0,0,246.65,23.9,formerly smoked,1
+346,Female,33,0,0,183.34,38.7,never smoked,0
+347,Female,9,0,0,144.91,15.9,never smoked,0
+348,Male,88,0,0,99.98,44.0,never smoked,0
+349,Male,1,0,0,247.51,30.8,never smoked,1
+350,Female,10,0,0,217.75,24.1,smokes,0
+351,Female,49,0,0,120.67,25.9,never smoked,0
+352,Female,30,0,1,82.61,17.0,formerly smoked,0
+353,Female,55,0,0,80.19,44.7,formerly smoked,0
+354,Male,78,0,0,91.67,16.2,never smoked,0
+355,Male,72,0,0,174.54,34.6,never smoked,1
+356,Female,86,0,0,237.18,28.3,never smoked,0
+357,Male,82,0,0,159.41,43.5,never smoked,1
+358,Female,8,1,0,221.73,22.4,never smoked,0
+359,Female,98,0,0,150.26,31.0,Unknown,1
+360,Female,20,0,0,197.55,29.5,never smoked,0
+361,Male,72,0,0,201.74,36.1,never smoked,1
+362,Female,27,0,0,101.31,17.0,smokes,0
+363,Male,61,0,1,135.02,20.8,never smoked,1
+364,Female,6,0,0,184.71,21.4,formerly smoked,0
+365,Female,79,0,1,82.73,37.1,never smoked,1
+366,Male,15,0,0,135.08,20.7,never smoked,0
+367,Female,96,0,0,166.26,32.2,never smoked,0
+368,Female,3,0,0,249.32,21.5,never smoked,0
+369,Male,3,0,0,155.42,40.8,never smoked,0
+370,Male,39,0,0,216.89,43.3,formerly smoked,1
+371,Male,16,0,0,147.77,30.6,never smoked,0
+372,Male,51,0,0,213.35,25.6,smokes,1
+373,Male,92,1,0,177.17,22.0,never smoked,0
+374,Female,51,1,0,229.59,16.5,never smoked,1
+375,Male,35,0,0,143.97,23.1,never smoked,0
+376,Male,37,0,0,178.77,34.6,smokes,0
+377,Female,49,0,0,183.4,31.0,never smoked,0
+378,Male,62,0,0,145.13,43.3,never smoked,1
+379,Female,62,0,0,95.98,26.9,smokes,0
+380,Male,61,1,0,86.84,35.8,never smoked,1
+381,Male,98,1,0,73.0,29.7,smokes,0
+382,Female,6,0,0,227.24,30.4,never smoked,0
+383,Female,26,0,0,112.57,23.0,formerly smoked,0
+384,Female,91,0,0,108.07,28.6,smokes,0
+385,Female,85,0,0,202.49,29.1,formerly smoked,0
+386,Female,13,0,0,127.6,36.2,never smoked,0
+387,Male,70,0,0,161.09,43.2,never smoked,0
+388,Male,85,0,0,99.25,24.9,smokes,0
+389,Female,4,0,0,242.75,16.3,never smoked,0
+390,Female,54,0,0,223.28,29.9,never smoked,1
+391,Other,1,1,1,225.48,31.3,formerly smoked,0
+392,Male,61,0,0,143.22,20.1,never smoked,0
+393,Male,90,0,0,207.23,37.8,never smoked,1
+394,Female,20,0,0,95.9,44.5,never smoked,0
+395,Male,78,0,0,71.55,43.4,never smoked,1
+396,Female,20,0,0,73.6,20.9,never smoked,0
+397,Female,9,0,0,175.59,41.3,formerly smoked,0
+398,Male,86,0,0,151.97,36.1,never smoked,0
+399,Female,57,0,0,163.24,28.6,smokes,0
+400,Female,38,1,0,71.34,31.2,smokes,0
+401,Male,4,0,0,146.08,40.5,formerly smoked,0
+402,Female,64,0,0,199.25,29.4,never smoked,1
+403,Female,12,0,0,149.68,26.2,formerly smoked,0
+404,Female,84,0,0,201.8,29.8,never smoked,0
+405,Male,89,0,0,111.94,32.4,never smoked,1
+406,Female,84,0,0,216.37,20.7,formerly smoked,0
+407,Male,52,0,0,175.92,42.0,never smoked,0
+408,Male,81,0,0,107.94,35.2,smokes,1
+409,Female,44,1,0,112.61,34.0,never smoked,0
+410,Male,31,0,0,183.05,18.0,formerly smoked,0
+411,Male,35,0,0,219.39,33.1,never smoked,0
+412,Female,80,0,0,144.81,18.6,smokes,0
+413,Female,98,0,0,116.49,17.4,never smoked,0
+414,Female,59,0,0,226.06,30.8,never smoked,1
+415,Female,10,0,0,190.47,27.1,never smoked,0
+416,Male,62,0,0,150.66,32.7,never smoked,0
+417,Male,20,0,0,157.82,17.7,never smoked,0
+418,Male,51,0,0,106.77,27.9,never smoked,0
+419,Female,54,0,0,182.82,20.2,never smoked,0
+420,Female,25,0,0,134.57,44.6,never smoked,0
+421,Female,67,0,0,249.22,31.8,never smoked,0
+422,Female,33,0,0,156.43,35.6,smokes,0
+423,Male,51,1,0,157.46,24.8,formerly smoked,1
+424,Female,81,0,1,171.85,17.8,formerly smoked,1
+425,Male,98,0,0,235.02,44.3,formerly smoked,0
+426,Female,92,0,0,214.15,23.6,never smoked,0
+427,Male,51,0,0,151.2,27.7,never smoked,0
+428,Female,28,0,0,199.37,34.5,never smoked,0
+429,Male,37,0,0,175.52,15.7,smokes,0
+430,Male,41,0,0,158.63,39.3,Unknown,0
+431,Male,20,0,0,104.62,31.1,never smoked,0
+432,Female,41,0,0,153.51,23.3,never smoked,0
+433,Female,12,0,0,114.25,16.8,never smoked,0
+434,Male,63,0,0,234.67,19.9,never smoked,0
+435,Male,16,0,0,130.37,41.9,never smoked,0
+436,Female,8,0,0,241.41,35.6,never smoked,0
+437,Male,40,0,0,165.95,22.5,smokes,0
+438,Female,0,0,0,183.68,17.0,never smoked,1
+439,Female,1,0,0,167.73,35.7,smokes,0
+440,Male,59,0,0,93.29,32.2,formerly smoked,0
+441,Male,47,0,0,137.65,27.1,formerly smoked,0
+442,Other,28,0,1,87.85,25.9,formerly smoked,0
+443,Male,96,0,0,182.13,21.5,formerly smoked,1
+444,Male,9,1,0,150.44,35.1,formerly smoked,1
+445,Female,57,0,0,210.04,44.1,formerly smoked,0
+446,Female,59,0,0,109.68,20.3,never smoked,0
+447,Other,20,0,0,99.62,32.9,Unknown,0
+448,Female,27,0,0,143.14,27.7,formerly smoked,0
+449,Male,74,0,0,236.79,28.4,formerly smoked,0
+450,Male,33,0,0,197.88,22.6,smokes,0
+451,Female,7,1,0,145.41,39.8,never smoked,1
+452,Female,58,0,0,163.11,29.6,never smoked,0
+453,Male,85,0,0,85.16,31.3,never smoked,0
+454,Female,71,0,0,247.22,24.1,never smoked,0
+455,Male,48,0,0,189.95,20.5,smokes,1
+456,Female,78,0,0,121.37,17.6,never smoked,0
+457,Male,16,0,0,175.45,36.4,never smoked,0
+458,Male,59,0,0,89.71,20.9,never smoked,0
+459,Male,86,0,1,243.85,35.7,never smoked,1
+460,Male,87,0,0,101.46,26.7,formerly smoked,0
+461,Male,44,0,0,186.65,27.5,smokes,0
+462,Female,82,0,0,114.18,29.1,never smoked,0
+463,Female,68,1,0,199.16,26.0,never smoked,0
+464,Female,31,0,0,209.83,18.0,never smoked,0
+465,Female,43,1,0,191.22,24.3,never smoked,0
+466,Male,64,0,0,180.61,34.9,never smoked,1
+467,Male,86,0,0,230.64,35.0,Unknown,0
+468,Female,7,0,0,84.15,23.6,never smoked,0
+469,Male,76,0,0,129.56,28.8,never smoked,1
+470,Female,71,0,0,114.69,20.8,never smoked,0
+471,Male,86,0,0,247.84,21.3,formerly smoked,1
+472,Female,42,0,0,140.09,15.7,formerly smoked,0
+473,Male,0,0,0,201.87,41.9,formerly smoked,0
+474,Female,50,0,0,193.25,21.3,never smoked,0
+475,Female,23,0,0,108.17,21.8,smokes,0
+476,Other,98,1,1,113.02,23.4,never smoked,1
+477,Male,23,0,0,120.63,18.8,never smoked,0
+478,Female,16,0,0,144.0,34.2,never smoked,0
+479,Female,4,0,0,112.18,17.3,never smoked,0
+480,Female,19,0,0,73.54,19.0,smokes,0
+481,Female,20,0,0,228.29,34.3,smokes,0
+482,Female,57,0,0,243.81,25.2,never smoked,0
+483,Male,30,0,1,131.48,36.2,smokes,0
+484,Female,99,0,0,130.93,31.7,formerly smoked,1
+485,Female,10,0,0,71.28,22.7,smokes,0
+486,Female,51,0,0,192.45,34.5,never smoked,0
+487,Male,14,1,0,218.58,18.5,never smoked,0
+488,Male,82,0,0,96.39,31.1,never smoked,0
+489,Female,6,0,0,98.74,28.1,smokes,0
+490,Female,27,0,0,212.21,23.0,never smoked,0
+491,Male,50,0,0,180.93,33.1,never smoked,0
+492,Female,57,1,0,78.07,41.1,never smoked,0
+493,Male,4,0,0,182.06,45.0,never smoked,0
+494,Male,4,0,0,125.61,33.2,formerly smoked,0
+495,Male,93,0,0,136.37,27.1,smokes,0
+496,Male,95,0,0,208.55,21.8,formerly smoked,1
+497,Female,7,0,0,215.97,22.7,smokes,0
+498,Male,63,0,0,142.06,29.4,never smoked,0
+499,Female,9,0,0,240.49,26.0,never smoked,0
+500,Other,37,0,1,143.16,42.4,never smoked,0
+501,Female,95,1,0,208.93,26.0,never smoked,0
+502,Female,91,0,0,157.1,26.2,never smoked,1
+503,Male,80,0,0,231.56,26.5,formerly smoked,1
+504,Female,94,0,0,233.4,40.1,never smoked,1
+505,Female,7,0,0,85.74,34.5,formerly smoked,0
+506,Male,24,1,0,238.57,33.4,never smoked,0
+507,Female,72,0,0,218.6,25.0,never smoked,0
+508,Female,65,0,0,212.44,39.5,never smoked,1
+509,Female,78,0,1,106.16,16.2,never smoked,0
+510,Female,49,0,0,214.92,41.1,never smoked,0
+511,Female,66,0,0,223.02,30.4,never smoked,1
+512,Male,48,0,0,122.05,26.9,never smoked,0
+513,Female,35,0,0,241.41,29.9,never smoked,0
+514,Female,67,0,0,78.97,35.0,never smoked,1
+515,Male,77,0,0,96.98,15.4,formerly smoked,1
+516,Male,40,0,0,166.76,41.1,formerly smoked,0
+517,Male,88,1,0,173.64,28.4,never smoked,1
+518,Female,61,0,0,186.13,25.3,formerly smoked,1
+519,Other,9,0,0,73.05,19.1,formerly smoked,0
+520,Male,20,0,0,242.87,28.2,formerly smoked,0
+521,Female,35,0,0,78.03,29.9,never smoked,0
+522,Male,11,0,0,95.75,27.1,never smoked,0
+523,Female,90,1,0,72.52,35.4,formerly smoked,0
+524,Female,1,0,0,172.03,27.6,never smoked,0
+525,Female,12,0,0,237.81,43.8,smokes,0
+526,Male,52,0,0,189.87,33.0,smokes,0
+527,Male,31,0,0,218.08,39.2,never smoked,0
+528,Male,94,0,0,72.39,18.3,never smoked,1
+529,Male,15,0,0,167.56,26.9,never smoked,0
+530,Female,31,0,0,152.72,25.1,never smoked,0
+531,Female,31,0,0,159.81,32.1,never smoked,0
+532,Other,97,0,0,83.0,40.8,never smoked,0
+533,Other,10,0,0,193.2,17.4,never smoked,1
+534,Female,9,0,0,160.58,17.2,never smoked,0
+535,Female,14,0,0,207.73,40.5,Unknown,0
+536,Female,16,0,0,157.35,21.4,never smoked,0
+537,Female,39,0,0,96.89,35.1,smokes,1
+538,Male,17,0,0,186.69,31.3,smokes,1
+539,Male,54,0,0,101.03,40.0,never smoked,1
+540,Male,72,0,0,227.03,18.8,formerly smoked,0
+541,Female,24,0,0,180.36,18.9,never smoked,0
+542,Female,58,0,0,98.3,31.7,formerly smoked,0
+543,Male,77,0,0,243.22,43.4,never smoked,1
+544,Female,88,1,0,163.31,27.4,never smoked,1
+545,Female,21,0,0,83.12,24.8,never smoked,0
+546,Male,29,0,0,182.83,33.2,never smoked,0
+547,Male,83,0,0,115.58,42.9,never smoked,1
+548,Female,84,0,0,214.66,40.1,never smoked,1
+549,Female,43,0,0,217.21,44.9,never smoked,0
+550,Female,31,0,0,246.21,15.7,never smoked,0
+551,Female,50,0,0,160.34,18.4,never smoked,0
+552,Female,45,0,0,151.89,33.3,never smoked,0
+553,Female,20,0,0,205.63,39.6,never smoked,0
+554,Female,98,0,0,93.84,23.6,never smoked,0
+555,Female,31,0,0,168.44,22.2,smokes,0
+556,Male,93,0,0,168.32,38.6,never smoked,0
+557,Male,38,0,0,86.11,16.7,formerly smoked,0
+558,Male,11,0,0,145.24,26.1,never smoked,0
+559,Female,46,0,0,223.59,30.2,smokes,0
+560,Female,17,0,0,224.11,31.8,never smoked,0
+561,Female,20,0,0,87.86,36.9,never smoked,0
+562,Male,12,0,0,86.33,25.6,never smoked,0
+563,Male,20,0,0,117.29,33.4,never smoked,0
+564,Male,7,1,0,227.46,32.6,never smoked,0
+565,Male,45,0,0,93.2,31.4,never smoked,1
+566,Female,6,0,0,199.6,34.2,Unknown,0
+567,Male,22,0,0,88.21,22.8,never smoked,0
+568,Male,95,0,0,182.16,17.5,never smoked,0
+569,Female,74,0,0,134.09,18.6,formerly smoked,0
+570,Male,85,0,0,212.0,21.7,never smoked,0
+571,Female,21,0,0,112.06,30.0,smokes,0
+572,Female,88,0,0,185.06,40.2,never smoked,1
+573,Male,21,0,0,112.42,36.0,formerly smoked,0
+574,Female,91,0,0,198.46,38.7,never smoked,1
+575,Female,28,1,0,227.26,25.5,smokes,1
+576,Female,12,0,0,92.82,27.1,formerly smoked,0
+577,Male,81,0,0,225.99,26.8,never smoked,1
+578,Female,1,0,0,176.84,20.8,never smoked,0
+579,Female,28,1,0,92.88,16.8,never smoked,0
+580,Male,84,0,0,146.96,32.7,Unknown,0
+581,Male,78,0,0,98.95,44.7,never smoked,0
+582,Other,51,0,0,196.06,20.0,never smoked,0
+583,Female,26,0,0,206.6,16.4,never smoked,0
+584,Male,49,0,0,89.04,38.4,never smoked,0
+585,Female,94,0,0,161.11,22.6,never smoked,0
+586,Male,78,0,0,216.63,39.9,Unknown,1
+587,Male,22,0,0,238.51,36.1,never smoked,1
+588,Male,87,0,0,162.43,43.4,smokes,0
+589,Male,43,0,0,241.05,27.3,never smoked,0
+590,Male,76,0,0,166.42,34.9,never smoked,0
+591,Male,21,0,0,140.95,28.9,never smoked,0
+592,Female,42,0,0,222.68,33.9,never smoked,0
+593,Male,36,1,0,158.74,28.5,Unknown,0
+594,Male,60,0,0,154.94,20.7,smokes,0
+595,Female,96,0,0,158.26,30.2,never smoked,0
+596,Male,55,0,0,222.42,30.9,never smoked,0
+597,Female,2,1,1,219.75,39.3,never smoked,0
+598,Male,62,0,0,142.63,37.1,smokes,1
+599,Male,18,0,0,129.99,34.9,smokes,0
+600,Male,22,0,0,158.55,18.4,formerly smoked,0
+601,Male,28,0,0,173.1,36.6,never smoked,0
+602,Male,29,0,0,112.9,30.0,never smoked,0
+603,Male,38,0,0,212.91,41.8,never smoked,0
+604,Male,24,0,0,157.57,42.6,never smoked,0
+605,Male,7,1,0,130.13,16.7,never smoked,0
+606,Male,57,0,0,89.23,39.6,never smoked,0
+607,Male,15,0,0,112.99,16.1,never smoked,0
+608,Male,71,0,0,240.87,26.0,smokes,0
+609,Female,0,0,0,124.92,31.3,formerly smoked,0
+610,Female,4,0,0,100.39,19.4,never smoked,0
+611,Male,2,0,0,152.92,37.4,never smoked,0
+612,Female,64,0,0,125.28,15.3,never smoked,0
+613,Female,3,0,0,76.33,20.1,formerly smoked,0
+614,Male,98,1,0,128.17,32.4,formerly smoked,0
+615,Female,95,0,0,167.94,36.4,formerly smoked,0
+616,Female,63,0,1,169.31,42.5,formerly smoked,1
+617,Male,97,1,0,134.18,36.2,never smoked,0
+618,Male,88,0,0,150.51,35.2,never smoked,0
+619,Female,9,0,0,243.79,26.8,never smoked,0
+620,Female,20,0,0,137.92,15.0,never smoked,0
+621,Male,45,0,0,116.48,18.6,formerly smoked,0
+622,Male,90,0,0,113.82,31.0,never smoked,0
+623,Male,26,0,1,152.4,35.3,never smoked,0
+624,Female,65,0,0,206.71,27.5,never smoked,1
+625,Female,40,0,0,107.08,36.9,Unknown,0
+626,Male,12,0,0,197.67,30.7,never smoked,0
+627,Male,8,0,0,73.81,17.2,formerly smoked,0
+628,Female,35,0,0,145.41,20.8,never smoked,0
+629,Male,85,1,0,209.66,40.2,never smoked,1
+630,Male,89,0,0,130.97,36.7,never smoked,0
+631,Female,57,0,0,171.47,41.8,formerly smoked,0
+632,Female,53,0,0,106.9,18.5,never smoked,0
+633,Female,11,0,0,203.56,44.7,smokes,0
+634,Female,80,1,0,79.41,21.3,never smoked,0
+635,Male,77,0,0,223.46,15.4,never smoked,0
+636,Male,13,0,0,105.68,44.9,smokes,1
+637,Female,33,0,0,227.39,23.4,never smoked,0
+638,Male,52,0,0,133.46,35.0,never smoked,0
+639,Male,19,0,0,200.08,20.3,formerly smoked,0
+640,Male,74,1,0,127.46,32.4,never smoked,0
+641,Male,15,0,0,233.06,42.1,formerly smoked,0
+642,Male,94,0,0,92.79,24.6,never smoked,0
+643,Male,69,0,0,102.13,35.1,never smoked,1
+644,Male,55,0,0,158.75,20.6,never smoked,0
+645,Male,82,0,0,84.75,33.7,smokes,0
+646,Female,57,0,1,105.28,25.1,never smoked,0
+647,Female,3,0,0,239.88,21.3,formerly smoked,0
+648,Female,3,0,0,245.77,24.4,smokes,0
+649,Female,19,0,0,137.73,20.4,never smoked,0
+650,Female,9,0,0,236.19,42.1,never smoked,1
+651,Male,23,0,0,168.07,26.9,never smoked,0
+652,Female,98,0,0,118.55,22.4,never smoked,0
+653,Female,25,0,0,196.43,28.5,never smoked,0
+654,Female,36,0,0,188.6,24.6,formerly smoked,0
+655,Male,84,0,0,248.04,37.3,Unknown,0
+656,Male,53,0,0,117.71,44.1,smokes,0
+657,Male,20,0,0,190.97,28.1,smokes,1
+658,Male,73,0,0,79.36,40.8,smokes,1
+659,Female,37,0,0,90.46,32.0,never smoked,0
+660,Female,45,0,0,70.71,19.7,formerly smoked,0
+661,Male,3,0,0,249.9,35.7,smokes,0
+662,Other,59,0,0,214.41,30.4,never smoked,0
+663,Female,56,0,0,211.61,34.5,Unknown,0
+664,Male,44,0,0,161.75,41.7,never smoked,0
+665,Male,19,0,0,124.01,28.2,formerly smoked,0
+666,Male,16,1,0,97.23,42.0,formerly smoked,1
+667,Male,70,0,0,121.24,37.5,Unknown,0
+668,Male,3,0,0,137.67,29.7,never smoked,0
+669,Male,92,0,0,206.14,33.1,formerly smoked,0
+670,Male,13,1,0,167.14,24.8,never smoked,0
+671,Male,2,0,0,83.95,44.5,never smoked,0
+672,Female,87,0,0,73.25,35.0,formerly smoked,1
+673,Male,79,0,1,88.42,16.3,never smoked,0
+674,Female,57,0,0,143.89,24.8,formerly smoked,0
+675,Male,54,0,0,237.97,33.7,never smoked,0
+676,Other,3,0,0,184.73,16.7,never smoked,0
+677,Male,23,0,0,214.33,15.7,formerly smoked,0
+678,Male,33,0,0,153.95,28.5,never smoked,0
+679,Female,29,1,0,135.1,25.0,never smoked,0
+680,Female,81,0,0,89.51,28.1,Unknown,0
+681,Female,18,0,0,227.67,22.9,never smoked,0
+682,Male,30,0,0,210.97,19.9,formerly smoked,0
+683,Male,59,0,0,100.26,35.7,never smoked,1
+684,Female,59,0,0,162.21,30.4,never smoked,0
+685,Female,18,0,0,157.73,21.0,never smoked,0
+686,Female,48,0,0,182.52,24.6,never smoked,0
+687,Female,62,0,0,240.31,32.8,never smoked,0
+688,Male,82,0,0,174.36,17.2,never smoked,0
+689,Female,21,0,0,167.24,19.4,never smoked,0
+690,Male,23,0,0,79.06,17.2,never smoked,0
+691,Male,75,0,0,81.32,39.4,never smoked,0
+692,Male,29,0,0,103.72,37.6,never smoked,0
+693,Female,57,0,0,75.84,37.6,never smoked,0
+694,Male,30,1,0,203.8,36.5,smokes,1
+695,Male,99,0,0,200.2,35.1,formerly smoked,1
+696,Female,63,0,0,94.49,29.3,formerly smoked,0
+697,Male,18,0,0,220.49,34.3,never smoked,0
+698,Female,47,0,0,97.86,16.2,smokes,0
+699,Male,44,0,0,124.21,33.6,formerly smoked,1
+700,Female,99,0,0,114.82,38.3,formerly smoked,0
+701,Female,93,0,0,137.02,30.0,never smoked,0
+702,Male,54,0,0,115.84,25.7,Unknown,0
+703,Male,54,0,0,158.01,23.3,smokes,0
+704,Male,96,1,0,143.33,34.3,smokes,1
+705,Male,17,0,0,247.58,35.8,never smoked,1
+706,Other,62,0,0,80.07,41.1,never smoked,0
+707,Male,91,0,0,95.59,25.3,never smoked,1
+708,Female,46,0,0,79.51,38.1,never smoked,0
+709,Male,74,0,0,182.65,31.8,smokes,1
+710,Female,56,0,0,79.81,41.5,never smoked,0
+711,Female,44,0,0,220.56,30.8,never smoked,1
+712,Female,32,0,0,162.15,30.5,never smoked,1
+713,Male,16,0,0,164.86,32.3,never smoked,0
+714,Male,69,0,0,171.09,37.5,never smoked,0
+715,Male,3,0,1,100.75,43.9,formerly smoked,0
+716,Female,19,0,0,105.58,17.2,never smoked,0
+717,Female,46,0,0,127.39,16.6,never smoked,0
+718,Female,90,0,0,176.83,43.1,never smoked,0
+719,Male,14,0,0,107.82,30.9,never smoked,0
+720,Female,69,0,0,90.94,33.4,never smoked,1
+721,Female,46,0,0,244.62,29.5,formerly smoked,0
+722,Male,77,0,0,73.96,17.8,formerly smoked,0
+723,Male,74,0,0,214.49,38.0,formerly smoked,1
+724,Female,8,0,0,211.85,37.4,formerly smoked,0
+725,Female,89,0,0,123.5,24.4,never smoked,1
+726,Female,15,0,0,94.41,24.2,Unknown,0
+727,Male,68,0,1,96.21,40.1,smokes,1
+728,Female,60,0,0,195.54,17.2,smokes,0
+729,Male,9,1,0,185.71,41.4,never smoked,1
+730,Male,49,1,0,210.89,22.7,smokes,0
+731,Male,2,0,0,238.75,32.8,smokes,1
+732,Female,76,0,0,194.55,43.1,smokes,0
+733,Female,93,0,0,98.05,35.3,never smoked,0
+734,Female,69,1,0,113.82,27.4,formerly smoked,0
+735,Male,80,0,0,221.59,35.7,Unknown,1
+736,Female,50,0,0,107.68,25.3,formerly smoked,0
+737,Male,18,0,1,83.05,23.3,never smoked,0
+738,Female,41,0,0,196.59,44.9,smokes,1
+739,Male,34,0,0,142.45,37.5,never smoked,0
+740,Male,45,0,0,235.61,34.3,never smoked,1
+741,Male,25,0,0,187.05,25.7,never smoked,0
+742,Male,68,0,0,86.28,16.5,smokes,1
+743,Female,92,0,0,240.61,15.9,never smoked,0
+744,Female,63,0,0,116.54,31.6,never smoked,0
+745,Male,36,0,0,130.7,37.9,formerly smoked,0
+746,Female,83,0,0,142.41,31.1,formerly smoked,0
+747,Male,48,0,0,79.22,40.2,never smoked,0
+748,Female,20,0,0,159.37,16.0,smokes,0
+749,Female,73,0,0,92.2,26.0,smokes,1
+750,Female,63,0,0,142.17,22.1,never smoked,0
+751,Male,4,0,0,133.13,28.4,never smoked,0
+752,Female,99,0,0,209.11,17.2,never smoked,0
+753,Female,69,0,0,214.57,43.6,never smoked,1
+754,Male,89,0,0,97.61,21.7,never smoked,1
+755,Male,3,0,1,135.98,42.7,smokes,1
+756,Female,38,0,0,137.2,27.8,smokes,0
+757,Female,34,0,0,97.25,44.6,never smoked,0
+758,Female,0,0,0,213.72,31.6,never smoked,0
+759,Female,23,0,0,197.3,42.9,never smoked,1
+760,Female,56,0,0,104.27,15.2,never smoked,0
+761,Male,99,0,0,136.01,37.4,never smoked,0
+762,Male,69,0,0,89.04,42.1,smokes,0
+763,Male,40,0,0,183.08,19.2,smokes,0
+764,Female,53,0,0,91.85,17.9,never smoked,0
+765,Male,45,0,0,247.47,27.7,smokes,0
+766,Female,59,0,0,210.52,43.0,never smoked,1
+767,Female,59,0,0,140.24,31.3,formerly smoked,0
+768,Female,56,0,0,174.14,30.8,never smoked,0
+769,Male,30,0,0,234.04,19.2,never smoked,0
+770,Female,83,0,0,169.74,15.0,smokes,0
+771,Male,23,0,0,101.41,39.3,never smoked,0
+772,Female,88,0,0,138.17,17.6,formerly smoked,0
+773,Male,35,0,0,221.77,34.0,never smoked,1
+774,Male,84,0,0,185.96,42.4,never smoked,0
+775,Female,29,1,0,187.13,21.3,never smoked,0
+776,Male,23,0,0,226.03,35.0,never smoked,1
+777,Male,29,0,0,230.92,17.4,formerly smoked,1
+778,Female,85,0,0,235.56,33.1,never smoked,1
+779,Female,91,0,0,87.07,19.9,formerly smoked,0
+780,Female,6,0,0,167.94,37.1,formerly smoked,0
+781,Female,34,0,1,203.29,24.0,formerly smoked,0
+782,Female,54,0,0,206.25,28.9,never smoked,0
+783,Male,91,0,0,179.21,33.0,smokes,0
+784,Male,13,0,0,100.02,20.1,never smoked,0
+785,Male,9,0,0,213.54,37.2,never smoked,0
+786,Female,79,0,0,199.62,24.1,never smoked,1
+787,Female,15,0,0,85.5,34.9,never smoked,1
+788,Male,53,0,0,153.49,19.7,never smoked,0
+789,Male,94,0,0,101.32,35.6,formerly smoked,0
+790,Female,88,0,0,130.75,18.8,never smoked,0
+791,Male,76,0,0,73.25,27.8,never smoked,0
+792,Female,69,0,0,142.06,22.4,formerly smoked,1
+793,Female,43,0,0,168.98,37.5,never smoked,0
+794,Female,72,0,0,181.52,22.9,never smoked,1
+795,Male,44,0,0,189.43,41.5,never smoked,0
+796,Female,99,0,0,220.53,41.8,formerly smoked,1
+797,Female,55,0,1,108.78,20.9,never smoked,0
+798,Female,83,0,0,91.69,33.4,never smoked,1
+799,Female,81,0,1,223.28,17.6,never smoked,1
+800,Female,56,0,0,98.19,26.7,formerly smoked,0
+801,Female,20,0,0,245.46,36.4,formerly smoked,1
+802,Male,67,0,0,221.66,34.8,smokes,0
+803,Female,49,0,1,160.16,33.7,never smoked,0
+804,Female,32,0,0,246.66,23.5,never smoked,0
+805,Male,90,0,0,87.53,26.3,never smoked,0
+806,Female,6,0,0,124.55,18.1,never smoked,0
+807,Female,69,0,0,184.88,36.6,never smoked,1
+808,Female,14,0,0,133.0,30.1,never smoked,0
+809,Male,81,0,0,237.11,36.3,never smoked,0
+810,Male,31,0,0,81.81,22.5,formerly smoked,0
+811,Other,74,0,0,168.89,24.7,never smoked,1
+812,Female,19,0,0,176.36,25.0,formerly smoked,0
+813,Male,87,0,0,187.49,15.8,never smoked,1
+814,Female,14,0,0,116.02,25.2,never smoked,0
+815,Female,47,0,0,135.62,39.1,never smoked,0
+816,Female,70,0,0,221.86,41.9,never smoked,0
+817,Female,20,0,0,105.09,30.5,never smoked,0
+818,Male,41,0,0,218.84,28.7,never smoked,0
+819,Male,25,0,0,171.28,15.9,smokes,0
+820,Male,13,0,0,207.19,41.4,formerly smoked,0
+821,Female,56,0,0,198.45,15.4,never smoked,0
+822,Male,36,0,0,107.35,43.3,smokes,0
+823,Male,57,0,0,172.39,29.7,formerly smoked,0
+824,Male,20,0,0,226.19,25.3,formerly smoked,0
+825,Female,81,0,0,147.78,42.7,smokes,1
+826,Female,68,1,0,243.99,15.7,never smoked,0
+827,Male,2,0,0,151.4,32.4,never smoked,0
+828,Male,86,0,0,95.7,31.5,never smoked,0
+829,Female,89,0,1,140.1,21.6,never smoked,1
+830,Male,36,0,0,241.31,27.9,never smoked,0
+831,Male,87,0,0,127.55,34.6,never smoked,1
+832,Male,48,1,0,226.26,36.8,smokes,1
+833,Male,18,0,0,228.63,15.0,smokes,0
+834,Male,88,0,0,133.03,43.1,smokes,0
+835,Female,84,0,0,84.99,19.9,smokes,0
+836,Male,11,0,0,200.42,22.0,smokes,0
+837,Female,60,0,0,126.07,22.9,never smoked,0
+838,Male,40,0,0,210.93,16.1,never smoked,0
+839,Female,32,1,0,149.68,18.7,never smoked,0
+840,Female,49,0,0,157.35,44.6,smokes,1
+841,Male,67,0,0,210.02,24.5,never smoked,0
+842,Female,70,0,0,138.83,18.5,formerly smoked,0
+843,Male,85,0,0,149.76,18.2,never smoked,1
+844,Female,32,0,0,137.71,36.6,never smoked,0
+845,Male,80,0,1,136.12,40.6,formerly smoked,1
+846,Male,23,0,0,164.67,22.7,never smoked,0
+847,Male,60,0,0,215.58,15.6,never smoked,0
+848,Other,60,0,0,135.12,21.7,never smoked,0
+849,Female,97,0,0,164.37,16.7,never smoked,0
+850,Female,27,0,0,190.73,18.1,formerly smoked,1
+851,Male,57,0,0,118.5,27.9,never smoked,0
+852,Female,42,0,0,119.95,21.9,never smoked,0
+853,Male,40,0,0,238.01,30.5,never smoked,0
+854,Female,38,0,0,200.24,22.6,smokes,0
+855,Male,85,0,0,173.89,43.2,never smoked,0
+856,Male,48,0,0,186.59,42.2,formerly smoked,1
+857,Male,16,0,0,75.27,32.0,formerly smoked,0
+858,Male,97,0,0,181.26,25.6,never smoked,1
+859,Female,69,0,0,161.71,26.4,smokes,1
+860,Male,69,0,0,168.23,27.4,formerly smoked,0
+861,Female,97,0,0,134.7,36.8,never smoked,1
+862,Male,64,0,0,84.67,28.5,never smoked,0
+863,Female,73,0,0,104.8,40.7,smokes,0
+864,Male,84,0,0,241.13,43.3,formerly smoked,1
+865,Male,4,0,0,143.57,25.1,never smoked,0
+866,Female,1,0,0,154.0,31.8,never smoked,0
+867,Male,21,0,0,79.49,17.9,smokes,0
+868,Male,56,0,0,76.76,21.0,formerly smoked,0
+869,Female,65,0,0,199.09,27.4,formerly smoked,1
+870,Female,73,0,0,166.86,21.2,never smoked,0
+871,Male,97,0,0,161.57,41.3,formerly smoked,1
+872,Male,15,0,0,113.76,19.7,never smoked,0
+873,Female,50,0,0,204.06,28.7,never smoked,0
+874,Male,38,1,0,100.28,33.2,formerly smoked,0
+875,Male,85,0,0,104.19,35.8,Unknown,0
+876,Male,75,0,0,152.93,26.5,never smoked,0
+877,Female,87,0,0,121.53,41.1,never smoked,0
+878,Female,39,0,1,114.54,32.0,formerly smoked,0
+879,Male,37,0,1,186.14,28.2,never smoked,0
+880,Male,59,0,0,187.17,17.0,smokes,0
+881,Male,58,0,0,218.41,28.9,formerly smoked,0
+882,Female,9,0,0,145.19,39.6,never smoked,0
+883,Male,98,0,0,83.16,33.4,Unknown,0
+884,Male,63,0,0,119.26,40.0,formerly smoked,0
+885,Female,62,0,0,246.4,29.8,smokes,0
+886,Male,48,0,0,177.33,18.6,formerly smoked,0
+887,Female,63,0,0,197.75,15.4,smokes,1
+888,Male,31,0,1,71.32,24.1,never smoked,0
+889,Male,6,0,0,163.28,35.9,never smoked,0
+890,Male,20,1,0,76.76,38.7,smokes,0
+891,Female,19,0,0,172.46,23.9,never smoked,0
+892,Female,25,0,0,235.74,29.9,never smoked,0
+893,Female,67,0,0,244.32,27.6,formerly smoked,0
+894,Male,85,0,0,167.3,27.3,smokes,0
+895,Female,14,0,0,152.48,21.9,never smoked,0
+896,Male,84,0,0,240.1,19.1,smokes,0
+897,Male,78,0,0,191.25,20.9,formerly smoked,0
+898,Female,85,0,0,81.68,16.7,never smoked,0
+899,Male,91,0,0,153.83,20.9,smokes,0
+900,Male,13,0,0,113.24,15.3,never smoked,0
+901,Male,26,0,0,154.56,33.8,never smoked,0
+902,Male,39,1,0,151.98,24.5,never smoked,1
+903,Male,57,0,0,174.79,44.2,never smoked,0
+904,Female,27,0,0,134.22,20.8,never smoked,0
+905,Male,25,0,0,99.57,25.4,smokes,0
+906,Female,62,0,0,160.67,25.7,formerly smoked,0
+907,Female,65,0,0,219.44,15.3,never smoked,1
+908,Male,24,0,0,189.52,40.2,formerly smoked,1
+909,Male,2,0,0,130.91,16.0,never smoked,0
+910,Male,71,0,0,238.39,43.2,never smoked,1
+911,Female,43,0,0,234.2,41.8,smokes,1
+912,Male,96,0,0,107.68,31.1,never smoked,0
+913,Female,41,0,0,77.1,31.3,never smoked,0
+914,Male,98,0,0,203.44,34.6,formerly smoked,1
+915,Female,5,0,0,218.97,26.6,never smoked,0
+916,Male,38,0,0,244.22,34.4,smokes,1
+917,Male,51,0,0,230.17,16.3,never smoked,0
+918,Female,22,0,0,178.1,16.6,never smoked,0
+919,Female,88,0,0,165.41,28.7,never smoked,1
+920,Male,49,0,0,75.01,31.5,never smoked,0
+921,Female,42,0,0,114.4,41.6,never smoked,0
+922,Female,18,0,0,152.73,18.1,never smoked,0
+923,Female,68,0,0,183.13,39.7,smokes,0
+924,Female,50,0,0,170.31,21.3,smokes,0
+925,Male,10,0,0,203.67,26.8,never smoked,0
+926,Male,11,0,0,120.36,24.5,never smoked,0
+927,Male,73,0,0,171.69,27.0,never smoked,1
+928,Female,7,0,0,85.87,19.5,smokes,0
+929,Female,23,0,0,144.46,30.1,Unknown,1
+930,Male,91,0,0,205.03,39.0,never smoked,0
+931,Male,40,0,0,194.81,28.2,formerly smoked,0
+932,Female,35,1,0,248.32,29.7,never smoked,0
+933,Other,84,1,0,120.02,40.5,never smoked,1
+934,Female,71,0,0,159.67,36.2,never smoked,1
+935,Male,54,0,0,129.32,29.7,never smoked,0
+936,Male,8,0,0,149.31,22.7,never smoked,0
+937,Male,46,0,0,224.25,41.5,never smoked,0
+938,Female,14,0,0,193.16,32.3,formerly smoked,0
+939,Male,47,0,0,228.84,21.6,never smoked,0
+940,Female,81,1,0,106.63,23.1,never smoked,0
+941,Male,41,0,0,227.21,39.1,never smoked,0
+942,Female,59,0,0,80.76,16.3,never smoked,0
+943,Female,83,0,0,229.95,44.8,never smoked,1
+944,Female,69,0,1,129.23,18.9,never smoked,1
+945,Male,11,1,0,126.63,38.9,never smoked,0
+946,Male,1,0,0,162.18,26.8,never smoked,0
+947,Male,6,0,0,239.32,29.8,never smoked,0
+948,Female,79,0,0,78.6,41.4,never smoked,1
+949,Female,2,0,0,133.4,27.4,formerly smoked,0
+950,Female,2,0,0,224.18,31.1,formerly smoked,1
+951,Female,26,0,0,141.29,16.5,never smoked,0
+952,Female,39,0,0,105.85,15.1,never smoked,0
+953,Male,32,0,0,146.46,22.3,never smoked,0
+954,Female,91,0,0,139.4,35.4,never smoked,1
+955,Male,0,0,0,234.77,18.6,never smoked,0
+956,Male,7,0,0,207.15,18.4,never smoked,0
+957,Female,31,0,0,160.92,27.3,never smoked,0
+958,Male,47,0,1,247.91,34.4,smokes,0
+959,Male,3,0,0,153.75,36.4,never smoked,0
+960,Female,93,0,0,80.48,20.4,never smoked,0
+961,Male,69,0,0,117.21,17.4,never smoked,1
+962,Female,18,0,0,148.49,43.2,smokes,0
+963,Male,31,0,0,98.24,22.8,formerly smoked,0
+964,Male,8,0,0,240.56,40.6,never smoked,0
+965,Male,11,0,0,208.03,40.9,smokes,0
+966,Male,10,0,0,118.29,38.2,never smoked,0
+967,Female,45,0,0,176.34,20.1,smokes,0
+968,Male,15,0,0,199.86,39.7,smokes,0
+969,Female,0,1,0,239.43,38.1,never smoked,1
+970,Male,62,0,1,228.69,32.9,formerly smoked,1
+971,Female,20,0,0,162.73,25.1,never smoked,0
+972,Female,29,0,0,209.44,22.9,never smoked,0
+973,Female,12,0,0,171.19,18.7,never smoked,0
+974,Male,33,0,0,169.49,30.3,formerly smoked,0
+975,Male,3,0,0,90.65,32.6,never smoked,0
+976,Male,27,1,0,92.7,25.8,never smoked,1
+977,Female,94,1,0,165.32,29.3,formerly smoked,1
+978,Male,58,0,0,118.4,25.9,never smoked,0
+979,Female,26,0,0,73.79,34.2,never smoked,0
+980,Female,68,0,0,200.11,42.0,never smoked,1
+981,Male,24,1,0,75.85,19.9,never smoked,0
+982,Female,2,1,0,177.15,26.4,never smoked,0
+983,Male,96,0,0,167.05,19.2,never smoked,0
+984,Male,67,0,0,244.39,33.7,Unknown,1
+985,Female,24,0,0,157.16,36.9,formerly smoked,0
+986,Female,19,0,0,81.45,43.0,never smoked,0
+987,Female,33,0,0,169.3,23.4,never smoked,0
+988,Male,25,0,0,221.4,43.5,never smoked,1
+989,Male,4,0,0,249.43,16.9,formerly smoked,0
+990,Female,98,0,0,147.46,33.1,never smoked,1
+991,Female,60,0,0,127.65,16.7,never smoked,0
+992,Female,91,1,0,233.2,41.8,smokes,0
+993,Male,92,0,0,104.42,30.9,never smoked,0
+994,Female,8,0,0,180.78,35.1,never smoked,0
+995,Male,49,0,0,143.03,39.9,smokes,0
+996,Male,5,0,0,77.39,19.5,formerly smoked,0
+997,Female,82,0,0,132.51,16.2,never smoked,0
+998,Male,59,0,0,117.74,41.4,formerly smoked,0
+999,Female,43,0,0,193.5,24.4,never smoked,0
+1000,Male,10,0,0,240.78,18.9,formerly smoked,0
+1001,Male,65,0,0,118.25,29.1,never smoked,0
+1002,Female,46,0,0,216.06,32.9,smokes,0
+1003,Female,72,0,0,79.96,15.9,Unknown,1
+1004,Female,84,0,1,166.86,23.2,smokes,1
+1005,Female,87,0,0,82.7,16.0,smokes,0
+1006,Female,97,0,1,238.13,27.6,never smoked,1
+1007,Female,85,0,0,207.94,41.9,never smoked,1
+1008,Female,2,0,0,188.43,44.5,never smoked,0
+1009,Male,75,0,0,218.3,34.1,formerly smoked,0
+1010,Female,91,0,0,186.55,19.8,smokes,1
+1011,Male,29,0,0,244.41,42.2,never smoked,0
+1012,Other,89,0,0,198.51,30.5,smokes,0
+1013,Female,20,0,0,236.44,19.6,smokes,0
+1014,Male,27,1,0,163.08,42.7,Unknown,0
+1015,Female,89,0,0,91.07,37.7,smokes,0
+1016,Female,61,0,0,165.07,37.0,never smoked,0
+1017,Male,32,0,0,92.84,36.3,never smoked,0
+1018,Female,84,0,1,176.65,21.0,never smoked,0
+1019,Female,34,0,0,156.85,21.3,never smoked,0
+1020,Male,51,0,0,182.06,35.6,formerly smoked,0
+1021,Female,33,1,0,71.81,21.6,smokes,0
+1022,Male,40,0,0,105.07,28.2,smokes,0
+1023,Female,50,0,0,158.44,38.5,formerly smoked,0
+1024,Female,46,0,0,241.09,38.5,never smoked,1
+1025,Female,81,0,0,139.05,28.6,never smoked,1
+1026,Male,57,0,0,146.39,38.8,never smoked,0
+1027,Female,74,0,0,198.65,40.2,never smoked,0
+1028,Female,56,0,1,178.68,34.6,never smoked,0
+1029,Male,22,0,0,123.81,21.9,never smoked,0
+1030,Female,47,0,0,143.95,23.2,never smoked,0
+1031,Male,21,0,0,109.19,24.4,never smoked,0
+1032,Female,16,0,0,243.88,18.5,formerly smoked,0
+1033,Male,68,0,0,93.51,23.2,never smoked,0
+1034,Male,10,0,0,136.93,21.3,never smoked,0
+1035,Male,93,0,0,74.65,28.7,never smoked,0
+1036,Female,14,0,0,109.92,42.3,Unknown,0
+1037,Male,90,0,0,210.48,18.1,never smoked,0
+1038,Female,34,0,0,106.21,36.6,never smoked,0
+1039,Male,32,0,0,84.41,35.6,formerly smoked,0
+1040,Male,83,1,0,155.4,17.9,never smoked,0
+1041,Female,15,0,0,71.79,42.7,smokes,0
+1042,Female,33,0,0,85.26,32.1,never smoked,1
+1043,Male,65,0,0,215.37,25.9,never smoked,0
+1044,Female,98,1,0,208.87,37.7,never smoked,1
+1045,Female,39,0,0,234.72,22.7,formerly smoked,0
+1046,Female,27,0,0,223.81,35.8,never smoked,0
+1047,Male,46,0,0,192.97,16.2,never smoked,0
+1048,Male,38,0,0,79.42,40.2,never smoked,0
+1049,Female,69,0,0,210.91,28.4,never smoked,0
+1050,Male,72,1,0,222.19,34.1,never smoked,0
+1051,Female,19,0,0,213.83,21.6,formerly smoked,0
+1052,Female,0,0,0,161.53,35.3,formerly smoked,0
+1053,Female,71,1,0,111.92,38.2,never smoked,0
+1054,Female,86,0,0,222.16,29.2,never smoked,0
+1055,Other,62,0,0,200.89,33.5,formerly smoked,0
+1056,Male,66,0,0,246.54,28.7,never smoked,1
+1057,Female,3,0,0,98.02,41.8,never smoked,0
+1058,Male,57,0,0,110.62,29.9,never smoked,0
+1059,Male,24,0,0,108.12,40.3,formerly smoked,1
+1060,Female,46,0,1,212.66,39.0,smokes,0
+1061,Female,37,0,0,103.64,27.3,formerly smoked,0
+1062,Other,14,0,0,82.0,21.9,never smoked,0
+1063,Female,62,0,0,249.74,27.2,never smoked,0
+1064,Male,20,1,0,74.47,39.8,smokes,1
+1065,Male,98,0,0,220.34,21.8,never smoked,1
+1066,Female,56,1,0,135.77,30.7,Unknown,0
+1067,Male,52,0,0,221.49,39.2,smokes,1
+1068,Male,45,0,0,169.83,25.6,never smoked,0
+1069,Male,13,0,0,232.29,34.3,smokes,1
+1070,Male,99,0,0,236.71,22.4,never smoked,1
+1071,Male,75,0,0,71.64,18.3,smokes,0
+1072,Male,16,0,0,83.57,38.8,never smoked,0
+1073,Male,38,0,0,115.06,18.0,never smoked,0
+1074,Male,8,0,0,190.48,23.1,formerly smoked,0
+1075,Other,98,0,1,229.89,40.7,formerly smoked,1
+1076,Male,76,0,0,152.79,25.4,never smoked,0
+1077,Male,78,0,0,179.26,44.2,never smoked,0
+1078,Female,81,0,0,103.93,44.4,never smoked,0
+1079,Male,96,0,0,214.89,23.0,never smoked,0
+1080,Female,5,0,0,244.12,16.2,never smoked,0
+1081,Female,90,0,0,118.35,36.2,never smoked,0
+1082,Male,22,0,0,159.07,28.5,never smoked,0
+1083,Male,58,0,0,85.5,18.0,never smoked,0
+1084,Female,90,0,0,170.64,36.2,never smoked,1
+1085,Female,97,0,0,160.5,15.9,never smoked,0
+1086,Male,45,0,0,96.0,41.1,never smoked,0
+1087,Female,37,0,0,149.57,19.2,Unknown,0
+1088,Male,13,0,0,130.14,18.8,never smoked,0
+1089,Other,99,0,0,163.93,20.3,smokes,1
+1090,Male,71,0,0,175.42,43.8,formerly smoked,0
+1091,Female,61,0,0,71.53,35.8,formerly smoked,0
+1092,Female,34,0,0,206.98,39.0,formerly smoked,0
+1093,Female,18,0,0,198.34,26.9,smokes,0
+1094,Female,29,0,0,135.93,25.1,never smoked,0
+1095,Male,77,0,0,79.53,22.0,never smoked,0
+1096,Male,83,0,0,205.89,29.4,formerly smoked,1
+1097,Male,24,0,0,241.93,31.6,never smoked,0
+1098,Male,39,0,0,113.23,34.0,smokes,0
+1099,Female,87,0,0,128.23,22.7,never smoked,1
+1100,Male,13,0,0,103.09,43.5,formerly smoked,0
+1101,Male,25,0,0,173.85,20.1,never smoked,0
+1102,Female,86,0,0,97.87,44.0,never smoked,1
+1103,Female,21,0,0,134.11,15.4,never smoked,0
+1104,Female,47,0,0,195.46,29.4,formerly smoked,1
+1105,Other,82,0,0,170.82,25.0,smokes,0
+1106,Male,50,0,0,139.56,28.5,never smoked,0
+1107,Male,2,0,0,145.64,32.1,smokes,0
+1108,Female,41,0,0,171.18,28.1,never smoked,0
+1109,Female,18,0,0,71.06,27.4,never smoked,0
+1110,Male,72,0,0,84.13,37.0,never smoked,1
+1111,Female,27,1,0,228.63,35.6,never smoked,1
+1112,Male,83,0,1,84.02,40.0,never smoked,1
+1113,Male,44,0,0,197.22,22.5,never smoked,0
+1114,Female,70,0,0,235.61,33.3,formerly smoked,1
+1115,Female,77,0,0,118.72,32.6,formerly smoked,1
+1116,Female,62,0,0,136.69,26.1,never smoked,1
+1117,Male,72,0,0,172.41,29.6,never smoked,0
+1118,Female,18,0,0,228.71,24.4,never smoked,0
+1119,Male,46,0,0,239.54,19.3,never smoked,0
+1120,Male,13,0,0,203.12,21.4,never smoked,0
+1121,Female,37,0,0,85.59,18.2,never smoked,0
+1122,Female,52,0,0,190.45,35.5,smokes,0
+1123,Female,60,0,0,143.85,34.8,smokes,0
+1124,Female,35,0,0,154.73,43.5,never smoked,0
+1125,Female,39,0,0,78.85,36.9,never smoked,0
+1126,Female,80,0,0,104.39,16.6,never smoked,0
+1127,Male,29,0,0,212.29,41.5,formerly smoked,0
+1128,Male,8,1,0,151.71,40.9,never smoked,0
+1129,Male,63,0,0,124.3,28.3,never smoked,0
+1130,Male,32,0,0,139.12,32.6,formerly smoked,1
+1131,Female,51,0,0,223.79,44.3,never smoked,0
+1132,Female,88,0,0,204.82,31.0,never smoked,1
+1133,Male,13,0,0,119.02,42.2,never smoked,0
+1134,Male,74,0,0,91.15,17.5,never smoked,0
+1135,Female,52,0,0,115.36,20.7,never smoked,0
+1136,Male,98,0,0,235.74,28.2,never smoked,0
+1137,Female,58,0,0,174.69,32.5,never smoked,0
+1138,Female,77,0,0,166.03,39.5,never smoked,1
+1139,Female,93,0,0,177.35,44.6,formerly smoked,0
+1140,Female,40,0,0,135.89,26.7,never smoked,0
+1141,Female,67,0,0,215.28,16.4,never smoked,1
+1142,Male,67,0,0,164.19,39.0,formerly smoked,0
+1143,Female,91,0,0,91.01,33.1,formerly smoked,1
+1144,Female,7,0,0,93.23,21.0,smokes,0
+1145,Male,1,0,0,166.63,29.8,never smoked,0
+1146,Female,85,1,0,238.58,37.3,never smoked,1
+1147,Female,40,1,1,125.5,38.1,formerly smoked,0
+1148,Female,54,0,1,226.52,30.0,formerly smoked,0
+1149,Female,15,0,0,207.54,24.2,never smoked,0
+1150,Female,92,0,0,114.61,44.2,smokes,1
+1151,Female,61,0,0,76.54,34.9,never smoked,0
+1152,Female,47,0,0,88.33,27.2,Unknown,0
+1153,Female,29,0,0,201.13,23.4,smokes,0
+1154,Female,11,0,0,105.94,36.9,formerly smoked,0
+1155,Female,34,0,0,136.83,22.3,smokes,0
+1156,Female,10,0,0,160.31,20.2,formerly smoked,0
+1157,Male,63,0,0,200.58,30.9,never smoked,1
+1158,Female,49,0,0,90.38,23.7,never smoked,0
+1159,Female,84,0,0,143.15,33.9,never smoked,1
+1160,Male,20,0,0,157.31,18.5,never smoked,0
+1161,Female,68,0,0,167.35,34.6,formerly smoked,0
+1162,Male,47,0,0,217.3,23.5,never smoked,1
+1163,Male,19,0,0,100.9,15.0,never smoked,0
+1164,Female,66,0,0,215.41,18.8,never smoked,0
+1165,Male,43,0,0,194.72,43.0,smokes,0
+1166,Female,32,0,0,170.06,41.0,never smoked,0
+1167,Female,72,0,0,195.92,22.0,never smoked,0
+1168,Female,60,0,0,144.16,38.4,never smoked,0
+1169,Male,8,0,0,94.91,33.3,formerly smoked,0
+1170,Male,67,0,0,189.84,44.1,never smoked,1
+1171,Female,34,0,0,164.44,26.2,formerly smoked,0
+1172,Other,80,0,1,185.09,35.4,never smoked,1
+1173,Female,97,0,0,130.84,16.9,never smoked,1
+1174,Male,87,1,0,233.24,26.9,smokes,1
+1175,Female,95,0,0,175.73,43.9,never smoked,0
+1176,Female,64,0,0,85.37,31.2,never smoked,0
+1177,Female,7,0,0,150.96,23.6,never smoked,0
+1178,Male,44,0,0,206.14,18.6,never smoked,0
+1179,Female,86,1,0,212.94,36.1,never smoked,0
+1180,Female,46,0,0,159.03,34.3,never smoked,0
+1181,Female,39,0,0,231.05,26.2,never smoked,0
+1182,Male,75,0,0,118.18,43.5,never smoked,1
+1183,Female,53,0,0,143.91,15.7,formerly smoked,0
+1184,Female,75,0,0,231.75,24.1,formerly smoked,1
+1185,Male,45,0,0,231.33,42.6,never smoked,0
+1186,Female,46,0,0,193.43,24.6,never smoked,0
+1187,Female,14,1,0,224.62,22.6,never smoked,0
+1188,Male,18,0,0,85.98,31.0,never smoked,1
+1189,Male,25,0,0,225.7,39.7,never smoked,0
+1190,Female,51,0,0,127.71,18.1,never smoked,0
+1191,Male,92,0,0,102.1,43.3,never smoked,0
+1192,Female,21,0,0,113.09,38.9,never smoked,0
+1193,Male,20,0,0,145.23,20.4,never smoked,0
+1194,Female,50,0,0,115.21,36.4,smokes,0
+1195,Male,37,0,0,127.7,26.5,never smoked,0
+1196,Female,19,0,0,94.3,27.1,formerly smoked,0
+1197,Female,28,1,0,123.31,38.5,smokes,0
+1198,Female,50,0,0,173.01,43.9,never smoked,0
+1199,Female,3,0,0,149.53,18.8,never smoked,0
+1200,Male,54,0,0,132.41,27.6,never smoked,0
+1201,Female,70,0,0,204.36,29.4,never smoked,0
+1202,Male,91,0,0,230.83,26.3,never smoked,1
+1203,Male,27,0,1,206.22,25.9,formerly smoked,0
+1204,Male,3,0,0,129.76,16.6,never smoked,0
+1205,Female,21,0,0,204.0,35.6,never smoked,1
+1206,Female,75,0,0,97.36,28.1,formerly smoked,0
+1207,Female,44,0,0,93.46,20.8,formerly smoked,0
+1208,Male,66,0,0,132.21,39.5,never smoked,0
+1209,Male,85,0,0,215.39,39.1,formerly smoked,0
+1210,Other,65,0,0,114.34,29.6,never smoked,0
+1211,Male,87,0,0,81.39,24.0,never smoked,0
+1212,Male,33,0,0,93.71,34.1,never smoked,0
+1213,Male,90,0,0,224.57,23.6,never smoked,0
+1214,Female,54,0,0,184.08,22.1,smokes,0
+1215,Female,0,0,0,115.58,36.9,never smoked,0
+1216,Male,71,0,0,169.95,16.2,never smoked,0
+1217,Male,86,0,0,164.96,17.8,never smoked,1
+1218,Female,37,0,0,187.98,15.2,never smoked,0
+1219,Female,5,0,0,111.97,19.6,never smoked,0
+1220,Male,85,0,0,225.59,17.1,never smoked,0
+1221,Female,24,0,0,125.69,44.9,smokes,0
+1222,Male,81,0,0,194.94,23.7,never smoked,0
+1223,Male,16,0,0,72.9,19.5,never smoked,0
+1224,Female,60,1,0,137.08,22.2,never smoked,1
+1225,Male,11,0,0,133.31,43.1,never smoked,0
+1226,Female,5,0,0,167.83,30.6,never smoked,0
+1227,Male,89,0,0,83.09,25.9,smokes,0
+1228,Male,26,0,0,212.22,41.2,Unknown,0
+1229,Other,7,0,0,109.2,26.8,never smoked,0
+1230,Male,82,0,0,191.87,25.1,never smoked,1
+1231,Female,64,0,0,214.58,21.2,smokes,0
+1232,Male,56,0,0,171.14,26.3,never smoked,0
+1233,Male,92,0,0,203.36,24.5,never smoked,1
+1234,Male,98,1,0,189.13,35.3,never smoked,0
+1235,Female,39,0,0,134.0,23.7,formerly smoked,0
+1236,Male,13,1,0,215.59,32.3,never smoked,1
+1237,Female,34,0,0,123.05,17.0,smokes,0
+1238,Male,47,0,0,172.82,20.7,formerly smoked,0
+1239,Female,83,0,1,204.17,27.2,never smoked,1
+1240,Male,55,0,0,138.21,43.1,formerly smoked,0
+1241,Female,48,0,0,124.5,26.3,smokes,0
+1242,Female,12,1,1,152.68,34.9,never smoked,0
+1243,Female,60,0,0,217.23,22.7,never smoked,0
+1244,Female,48,0,0,237.39,18.8,never smoked,0
+1245,Female,45,0,0,168.12,16.8,never smoked,0
+1246,Female,61,0,0,189.06,24.2,never smoked,1
+1247,Male,7,1,0,232.59,19.7,never smoked,1
+1248,Male,42,0,0,87.74,20.2,never smoked,0
+1249,Female,19,0,0,111.77,37.8,smokes,0
+1250,Female,96,0,0,197.6,15.5,never smoked,0
+1251,Female,89,0,0,218.27,31.7,never smoked,1
+1252,Female,38,1,0,224.27,26.4,never smoked,0
+1253,Male,84,0,0,144.72,30.2,never smoked,1
+1254,Male,48,0,0,86.08,31.9,never smoked,0
+1255,Female,63,0,0,148.8,24.4,never smoked,0
+1256,Male,61,0,0,111.53,23.9,never smoked,0
+1257,Male,53,0,0,122.42,37.0,formerly smoked,0
+1258,Female,8,0,0,209.01,41.1,formerly smoked,1
+1259,Male,87,0,0,83.59,20.8,never smoked,0
+1260,Female,36,1,0,218.96,17.9,formerly smoked,0
+1261,Male,48,0,0,146.98,41.9,formerly smoked,0
+1262,Female,40,0,0,177.29,25.5,never smoked,0
+1263,Male,16,1,0,86.14,31.5,Unknown,0
+1264,Male,87,0,0,130.72,25.8,smokes,0
+1265,Male,20,0,0,86.15,18.8,never smoked,0
+1266,Male,50,0,0,243.08,32.7,never smoked,1
+1267,Male,58,0,0,215.31,30.8,never smoked,0
+1268,Male,38,0,0,152.73,21.1,never smoked,0
+1269,Female,54,1,0,110.25,28.6,formerly smoked,0
+1270,Male,40,0,0,238.02,38.9,never smoked,1
+1271,Female,38,0,0,132.03,32.7,formerly smoked,0
+1272,Female,12,0,0,98.98,17.9,formerly smoked,0
+1273,Female,63,0,0,171.37,31.4,formerly smoked,0
+1274,Male,10,0,0,239.88,36.1,formerly smoked,0
+1275,Female,18,0,0,70.69,38.8,never smoked,0
+1276,Male,10,0,0,112.86,33.9,never smoked,0
+1277,Male,76,0,0,238.92,19.6,formerly smoked,1
+1278,Other,45,1,1,100.8,36.3,never smoked,1
+1279,Male,44,0,0,90.38,35.3,never smoked,0
+1280,Female,0,0,0,172.63,15.7,smokes,0
+1281,Female,39,0,0,225.13,27.4,formerly smoked,0
+1282,Female,18,0,0,155.88,25.0,never smoked,0
+1283,Female,75,0,0,249.02,35.1,formerly smoked,0
+1284,Male,71,0,0,192.25,21.5,formerly smoked,1
+1285,Male,71,0,0,83.33,32.7,never smoked,1
+1286,Female,60,0,0,248.71,42.4,never smoked,0
+1287,Male,11,0,0,143.42,38.9,smokes,0
+1288,Male,60,0,0,121.73,42.6,never smoked,0
+1289,Male,32,1,1,170.42,44.4,never smoked,0
+1290,Male,44,0,0,124.78,15.3,never smoked,0
+1291,Male,89,0,0,85.56,33.7,formerly smoked,0
+1292,Male,91,0,0,70.26,27.4,never smoked,0
+1293,Female,68,0,0,150.93,40.8,never smoked,0
+1294,Female,7,0,0,220.64,22.6,never smoked,1
+1295,Female,24,0,0,173.02,44.4,Unknown,0
+1296,Male,90,0,0,249.86,33.4,never smoked,0
+1297,Male,45,0,0,121.63,38.8,never smoked,0
+1298,Male,86,0,0,120.48,17.6,smokes,1
+1299,Female,29,0,0,98.75,20.5,never smoked,0
+1300,Female,46,0,0,99.53,37.8,Unknown,0
+1301,Male,86,0,0,121.33,15.7,smokes,0
+1302,Female,48,0,1,212.71,39.5,smokes,0
+1303,Male,46,0,0,233.04,15.4,never smoked,0
+1304,Female,83,0,0,245.52,34.7,formerly smoked,0
+1305,Female,81,0,0,111.81,26.0,formerly smoked,1
+1306,Female,17,0,0,228.63,33.3,Unknown,0
+1307,Female,65,0,0,129.09,35.9,never smoked,1
+1308,Female,67,0,0,90.31,25.3,formerly smoked,1
+1309,Male,93,1,0,226.6,18.2,never smoked,1
+1310,Female,32,0,0,184.5,17.1,never smoked,0
+1311,Male,35,0,0,99.65,32.7,never smoked,0
+1312,Female,81,0,0,147.37,30.6,formerly smoked,1
+1313,Female,18,1,0,121.71,37.3,never smoked,0
+1314,Female,27,0,0,202.62,30.3,never smoked,1
+1315,Male,39,0,0,151.61,27.7,Unknown,0
+1316,Female,83,0,0,248.07,26.9,never smoked,0
+1317,Female,96,0,0,79.85,15.8,formerly smoked,0
+1318,Female,75,0,1,133.9,25.1,never smoked,1
+1319,Male,14,0,0,156.74,44.3,never smoked,0
+1320,Male,40,0,0,160.56,41.2,formerly smoked,0
+1321,Male,38,0,0,126.87,24.9,smokes,0
+1322,Male,1,0,0,201.26,32.6,never smoked,0
+1323,Female,62,0,0,227.45,40.4,formerly smoked,1
+1324,Male,28,0,1,238.97,28.2,never smoked,0
+1325,Female,73,0,0,214.92,15.5,never smoked,1
+1326,Male,65,0,0,223.1,17.2,never smoked,1
+1327,Male,50,1,0,169.1,30.3,never smoked,0
+1328,Female,74,0,0,218.66,44.1,never smoked,1
+1329,Female,76,0,0,124.63,35.8,never smoked,1
+1330,Female,9,0,0,141.73,17.1,never smoked,0
+1331,Female,13,0,0,127.04,20.7,never smoked,0
+1332,Female,81,0,0,154.13,38.1,never smoked,1
+1333,Male,50,0,0,121.4,40.2,never smoked,1
+1334,Other,72,0,0,243.09,33.5,smokes,1
+1335,Female,38,0,0,126.31,34.3,formerly smoked,0
+1336,Female,27,0,0,87.65,15.9,never smoked,0
+1337,Male,2,0,0,164.83,39.9,smokes,0
+1338,Female,83,0,0,80.28,38.6,formerly smoked,0
+1339,Male,69,1,0,89.9,22.8,never smoked,1
+1340,Male,26,0,0,109.49,36.3,never smoked,0
+1341,Male,1,1,0,153.58,21.4,formerly smoked,1
+1342,Male,92,0,0,147.99,16.2,never smoked,1
+1343,Female,37,1,0,213.94,21.0,formerly smoked,1
+1344,Female,2,0,0,203.11,20.4,formerly smoked,0
+1345,Female,15,0,0,146.74,25.1,formerly smoked,0
+1346,Male,93,0,0,130.07,27.6,Unknown,0
+1347,Male,39,0,0,126.96,30.3,never smoked,1
+1348,Male,1,0,0,209.32,29.3,never smoked,1
+1349,Other,80,0,0,79.37,23.1,smokes,0
+1350,Male,40,0,0,72.31,15.9,never smoked,0
+1351,Female,11,0,1,213.2,33.2,formerly smoked,0
+1352,Female,34,0,0,155.89,26.9,Unknown,0
+1353,Male,64,0,0,93.56,24.0,formerly smoked,0
+1354,Female,54,0,0,112.4,41.0,never smoked,0
+1355,Female,44,0,1,237.85,37.4,never smoked,1
+1356,Female,78,0,0,224.71,40.7,never smoked,1
+1357,Female,89,0,0,197.76,29.8,never smoked,0
+1358,Male,84,0,0,156.8,18.9,formerly smoked,0
+1359,Male,61,0,0,163.66,35.9,formerly smoked,0
+1360,Female,48,0,0,245.54,21.2,formerly smoked,0
+1361,Female,94,0,1,243.84,28.2,never smoked,1
+1362,Male,24,0,0,108.75,17.0,never smoked,0
+1363,Female,22,0,0,216.0,39.8,formerly smoked,0
+1364,Female,23,0,0,105.5,18.8,never smoked,0
+1365,Female,37,0,0,108.44,42.1,never smoked,0
+1366,Male,27,0,0,191.7,40.9,formerly smoked,0
+1367,Female,20,0,0,142.9,28.9,formerly smoked,0
+1368,Female,53,0,0,237.68,37.3,never smoked,0
+1369,Male,17,0,0,86.02,33.6,smokes,0
+1370,Male,35,0,0,162.07,39.1,never smoked,0
+1371,Female,98,0,0,235.33,28.0,Unknown,0
+1372,Male,44,0,1,232.74,38.6,never smoked,1
+1373,Female,72,0,0,98.18,28.9,never smoked,0
+1374,Female,52,1,0,135.99,43.2,smokes,0
+1375,Male,29,0,0,181.44,29.6,never smoked,1
+1376,Female,59,1,0,98.69,28.9,formerly smoked,0
+1377,Male,97,0,0,244.24,38.6,smokes,1
+1378,Female,31,0,0,234.65,39.6,smokes,0
+1379,Male,66,0,0,100.05,31.6,Unknown,1
+1380,Female,66,0,0,91.81,20.4,never smoked,0
+1381,Male,27,0,0,85.37,29.0,formerly smoked,0
+1382,Male,43,0,1,233.7,44.0,never smoked,1
+1383,Female,78,0,0,104.85,37.6,never smoked,0
+1384,Male,40,1,0,144.93,39.3,smokes,0
+1385,Female,62,0,0,150.79,16.0,never smoked,1
+1386,Male,22,0,0,177.82,29.0,never smoked,0
+1387,Female,74,0,0,82.91,34.4,never smoked,0
+1388,Male,47,0,0,110.82,39.9,formerly smoked,0
+1389,Female,31,0,1,237.67,16.5,Unknown,1
+1390,Male,56,0,0,233.51,40.6,never smoked,1
+1391,Male,99,1,0,210.63,31.5,never smoked,1
+1392,Male,32,0,0,73.49,20.9,smokes,0
+1393,Male,23,0,0,128.86,24.5,never smoked,0
+1394,Female,38,0,0,183.03,23.5,never smoked,1
+1395,Male,33,0,1,119.53,30.9,never smoked,0
+1396,Female,55,0,0,233.73,16.6,never smoked,0
+1397,Male,27,0,0,184.1,19.8,never smoked,0
+1398,Male,36,0,0,82.94,39.4,smokes,0
+1399,Female,6,0,0,233.62,19.0,never smoked,0
+1400,Female,67,0,0,242.4,22.0,smokes,0
+1401,Male,36,0,0,83.99,28.6,smokes,0
+1402,Male,55,0,0,165.82,30.5,formerly smoked,0
+1403,Male,64,0,1,124.61,37.9,never smoked,0
+1404,Female,64,0,0,140.71,28.4,never smoked,0
+1405,Female,46,0,0,102.34,38.7,never smoked,0
+1406,Male,19,0,0,174.05,33.6,smokes,0
+1407,Female,18,0,0,242.44,18.4,never smoked,0
+1408,Female,28,0,0,160.55,19.7,never smoked,0
+1409,Female,73,0,0,84.92,28.1,never smoked,1
+1410,Female,59,0,0,181.6,26.9,never smoked,0
+1411,Male,17,0,0,131.24,37.3,never smoked,0
+1412,Male,91,0,0,224.07,32.4,never smoked,0
+1413,Male,34,0,0,148.24,26.6,never smoked,0
+1414,Male,42,0,0,104.71,20.1,never smoked,0
+1415,Female,94,0,0,104.4,21.8,never smoked,0
+1416,Female,90,0,0,208.38,32.3,formerly smoked,1
+1417,Male,10,0,0,117.81,27.7,never smoked,0
+1418,Male,48,0,0,208.1,30.4,never smoked,0
+1419,Male,37,0,0,107.06,20.1,never smoked,0
+1420,Female,63,1,0,127.9,34.9,never smoked,0
+1421,Male,68,0,0,153.79,40.6,smokes,0
+1422,Female,7,0,0,239.78,22.7,never smoked,0
+1423,Male,33,1,0,237.71,29.7,formerly smoked,0
+1424,Male,47,1,0,107.24,44.3,smokes,1
+1425,Other,55,0,1,134.48,25.0,smokes,0
+1426,Female,75,0,0,96.89,32.9,never smoked,0
+1427,Male,64,0,0,161.8,17.7,never smoked,0
+1428,Female,30,0,0,152.9,33.2,formerly smoked,1
+1429,Female,3,0,0,232.14,17.7,never smoked,1
+1430,Female,49,0,0,237.4,43.8,smokes,0
+1431,Male,68,0,0,139.04,36.5,formerly smoked,0
+1432,Female,29,0,0,158.51,38.6,formerly smoked,0
+1433,Female,87,0,0,231.32,36.1,never smoked,1
+1434,Female,58,0,0,215.21,32.7,formerly smoked,0
+1435,Male,66,0,0,70.66,28.5,formerly smoked,0
+1436,Male,74,0,0,127.61,40.8,smokes,1
+1437,Male,44,0,0,145.92,43.7,never smoked,0
+1438,Female,3,0,0,111.35,30.0,never smoked,0
+1439,Male,25,0,1,105.92,42.9,never smoked,0
+1440,Female,26,1,1,76.8,32.5,never smoked,0
+1441,Female,45,0,0,185.81,31.2,never smoked,0
+1442,Male,63,0,0,117.25,28.6,smokes,0
+1443,Female,90,0,0,79.42,21.3,never smoked,0
+1444,Male,50,0,1,111.58,15.1,smokes,1
+1445,Female,49,0,0,214.34,22.2,never smoked,0
+1446,Male,5,0,0,223.27,30.3,never smoked,0
+1447,Female,58,0,0,156.95,26.4,never smoked,0
+1448,Female,14,0,0,144.89,28.5,never smoked,0
+1449,Female,29,0,0,246.01,44.4,smokes,0
+1450,Female,41,0,0,106.1,25.5,never smoked,0
+1451,Female,36,1,0,108.76,28.6,formerly smoked,1
+1452,Female,41,1,0,122.54,19.0,never smoked,0
+1453,Female,34,0,0,101.1,16.4,smokes,0
+1454,Female,86,0,0,138.29,38.3,never smoked,0
+1455,Male,5,0,0,233.95,32.1,never smoked,0
+1456,Female,67,0,0,180.76,37.8,never smoked,0
+1457,Female,17,0,0,144.15,19.5,never smoked,0
+1458,Female,72,1,0,238.19,32.2,never smoked,1
+1459,Male,28,0,0,78.72,22.6,smokes,0
+1460,Female,76,0,1,107.85,21.8,formerly smoked,0
+1461,Male,58,0,0,171.86,15.3,formerly smoked,0
+1462,Female,46,1,0,180.8,18.9,never smoked,0
+1463,Male,16,0,0,77.12,24.3,never smoked,0
+1464,Female,95,0,1,142.55,18.5,never smoked,1
+1465,Other,21,0,0,186.85,44.6,Unknown,0
+1466,Male,67,0,0,195.65,24.3,smokes,1
+1467,Female,68,0,0,184.87,18.9,smokes,1
+1468,Male,36,1,0,127.7,21.0,smokes,1
+1469,Female,48,0,0,86.83,32.6,never smoked,0
+1470,Female,12,0,0,146.88,16.9,never smoked,0
+1471,Female,33,0,0,93.18,40.9,never smoked,0
+1472,Female,85,0,0,240.57,43.8,never smoked,0
+1473,Female,52,0,0,155.53,22.4,never smoked,0
+1474,Male,86,0,0,127.11,28.5,never smoked,0
+1475,Male,50,0,0,207.93,15.7,formerly smoked,0
+1476,Female,2,0,0,159.63,34.2,smokes,0
+1477,Female,41,0,0,125.81,27.4,formerly smoked,0
+1478,Female,97,0,0,216.15,23.1,smokes,1
+1479,Female,31,0,0,226.09,21.2,never smoked,0
+1480,Male,50,0,0,191.14,34.6,never smoked,1
+1481,Female,84,0,1,78.45,27.5,formerly smoked,1
+1482,Male,45,0,0,171.94,20.4,never smoked,0
+1483,Female,20,0,0,207.39,35.7,never smoked,0
+1484,Male,43,0,0,94.57,32.0,never smoked,0
+1485,Male,10,0,0,111.16,40.8,never smoked,0
+1486,Male,67,0,0,228.85,18.5,never smoked,1
+1487,Male,0,0,0,73.62,38.6,never smoked,0
+1488,Female,91,0,0,205.49,35.2,never smoked,1
+1489,Male,62,0,0,155.28,18.5,formerly smoked,0
+1490,Male,23,1,0,150.42,35.8,never smoked,1
+1491,Male,98,0,0,71.28,28.2,never smoked,0
+1492,Male,12,0,0,217.49,43.3,never smoked,0
+1493,Male,97,0,0,134.77,19.2,never smoked,1
+1494,Male,10,1,0,167.34,34.3,formerly smoked,0
+1495,Female,99,0,0,191.91,26.5,formerly smoked,1
+1496,Female,50,0,1,196.47,43.7,formerly smoked,0
+1497,Female,16,0,1,242.08,24.9,never smoked,0
+1498,Male,98,0,0,165.64,43.9,never smoked,1
+1499,Male,81,0,0,141.95,42.0,never smoked,1
+1500,Female,85,0,0,241.67,23.1,never smoked,0
